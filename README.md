@@ -2,7 +2,7 @@
 
 This here project is a musical scale finder as the title suggests. You input a certain root note for which you'd want either the major scale or minor scale to be shown back to you.
 
-I personally use in it when I'm working on some music and want a quick reference as to what notes I can play along within a major or minor scale.
+I personally use it when I'm working on some music and want a quick reference as to what notes I can play along within a major or minor scale.
 
 The 12 different (root) notes for which you can show a scale are: {A, A#, B, C, C#, D, D#, E, F, F#, G, G#}
 
